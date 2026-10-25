@@ -1,3 +1,7 @@
+Name: Nandish P
+Roll number: 2026203002
+
+
 4-bit Array Multiplier: RTL to GDSII
 
 This repository contains the design, verification, synthesis, static timing analysis, and physical design of a 4-bit unsigned array multiplier using the SkyWater 130nm process node.
