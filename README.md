@@ -1,6 +1,8 @@
-Name: Nandish P
-Roll number: 2026203002
+Name1: Nandish P
+Roll number1: 2026203002
 
+Name2: Dheerendra Singh 
+Roll number2: 2026203017
 
 4-bit Array Multiplier: RTL to GDSII
 
